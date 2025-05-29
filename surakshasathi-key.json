@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "suraksha-sathi-454505",
+  "private_key_id": "b8f87058dcb47fe24b6df65aebfd829229ecab57",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCcGg+lH5GiKfPV\nvuIsaMmfy7lP+B4JYYLW+GURAj5Rjs+KPe7slKjiHlyIQjkD9D8tPNnMXTCoCeB1\nx0+kjqPnmNM4YQGgBEVhWw6qs3tYZOOgqy2jGXuWS68epo2vCjJU9Bg/SND60QYP\nHNxyFKoP7B6fLMW+v98P2eO69b1O0TyIJzgXbXbraZHO2+oyg267RCdGe9h1pcBX\nlpowZN2wNaq3Osn5gezYjjpP/qN4avshNS0ve+c/hQYC5NAULAQ1h1H0vsV0Z8Hw\nsEeN6kYlJii7kRFz3Tad8oHGQb0xEgkdDbjiNU+lfNagmrsoXgcLjM27qy8BSA/T\n63kc7IVXAgMBAAECggEAA2nKd8jV7V7PdxgCaAguiHDy7120gm4AZ2TtCM8sv6nI\nvfQWulOR0cfqLAyOpJh9nSaceIx9GN+Gaezev/FighjkXXI5j98oCTXtfywHgWpL\nU+MKT2uqOSIUhS4NIQuvCA6CTTfxYdqaMFBoPZJYGZsHHGHlPQODBBy2jwr6hbOi\nyhWdc1L5E7I6pHRvn0dQDE7dshC7NNemplSCioVApzlbIlK2qTMK1HRN8fK0YFT5\nxSbF5koSqkmn0rFWENX7s+atEBfAqOkKCSPP6CtkdgDUU6CButgTXInEJdD7Np7k\n7gWl1nho4zsKOHzkDTMgFX4NLhlFYwzDYmBgNnmcmQKBgQDJ8tgfRdKqYTuh8tA/\nXdQEIMqUGzw/QGQLt1f4Yr/U5pX2MXMJXkqx1w5w5m4IuDd4v9HdlnYr5fhIyq3L\nxP9Y0doqQjAVGV4J1z3a/67PiR2Zrs267CGos3BtEdlTjQ1Qb18C4Hdg2J6wdXmX\nzgTy+ckq6J7ygyfNjkEs6oaZcwKBgQDF4eA9oXkkUGwLmy7YyzqGAQh9vmBrursY\n2Y/CqzPrlUdj1PKhW9lvniXbO1uq0on0sPeUAhI+xNvcECtyrpAURn1IydB5kksd\nAKRvxkYRyEkrdl9pObLxT/TT7kQkZabVdJdVVo393uyJ7/pGh7FHaL2e3gsT4fZg\ny7FWlcG7jQKBgQCpzyRBr5GDqLze4XCQR9JWIkiVHw2a1gcJ/wHenxJU8Ata95uW\nXg4K2h2Pe4M8m8IxK4JJhBIbuYT7mElpVV2tDtAWxo7tvuXe+nlNo78XTWFxb5YY\nPiPTWgcH/4ExiyKN5wgKQDrBWYSeNjmnFxn8QWMRTIcSvowCgUJ2hUHm1wKBgAiO\nlfXUT7rER4fQ9Bun3iYBUW6ultjRwFl4vwC6Coq7b9TfVoanxCVRf22ViYc/h3uv\nU2VxGXzhYmiHwnk5Fz3pNm25XGyFaP4eEv5KYqlOMevROJsCRbytqnanrQat5qMA\nYbLtBULfKvdkCzyVjZL68og2LeB0OwVAibCm1TPZAoGBALUqYXQaeqoHQh9wAgBo\nhd51vN2CuSLc4jHH04iMylSFnIB5uxjx1YcWESYNE4S4Fdb2SgjDIAv67OALYZhY\n02jJ6DFUK1ZJz2YJpN9dxZYqfLUbTRajFXJpnAm8Pd+JjroIcJiRgEwQDYWOZTk+\nQhJr1Io0wO05kbcROMdNlw+B\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-agent@suraksha-sathi-454505.iam.gserviceaccount.com",
+  "client_id": "112595634111722988913",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-agent%40suraksha-sathi-454505.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
